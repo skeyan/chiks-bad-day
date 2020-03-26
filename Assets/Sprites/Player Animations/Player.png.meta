@@ -1,0 +1,607 @@
+fileFormatVersion: 2
+guid: 6160f19dccd6f2347b5c349eafda229e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 303424848952509498
+    second: Witchcraft_spr_1_0
+  - first:
+      213: 5842858934399646670
+    second: Witchcraft_spr_1_1
+  - first:
+      213: -5965170617698558593
+    second: Witchcraft_spr_1_2
+  - first:
+      213: 2823017448613427974
+    second: Witchcraft_spr_1_3
+  - first:
+      213: -6002961153143264586
+    second: Witchcraft_spr_1_4
+  - first:
+      213: -8849384628937906621
+    second: Witchcraft_spr_1_5
+  - first:
+      213: 7504739645509096338
+    second: Witchcraft_spr_1_6
+  - first:
+      213: 2213648557748536213
+    second: Witchcraft_spr_1_7
+  - first:
+      213: 5103642151128305964
+    second: Witchcraft_spr_1_8
+  - first:
+      213: -4316834722058831716
+    second: Witchcraft_spr_1_9
+  - first:
+      213: 2737251678597537553
+    second: Witchcraft_spr_1_10
+  - first:
+      213: -4567800641801976485
+    second: Witchcraft_spr_1_11
+  - first:
+      213: 9052884684262127268
+    second: Witchcraft_spr_1_12
+  - first:
+      213: -1396056108043555041
+    second: Witchcraft_spr_1_13
+  - first:
+      213: 6434718185745502254
+    second: Witchcraft_spr_1_14
+  - first:
+      213: 3016978401696528534
+    second: Witchcraft_spr_1_15
+  - first:
+      213: 4459297789289833620
+    second: Witchcraft_spr_1_16
+  - first:
+      213: 7475520276301052765
+    second: Witchcraft_spr_1_17
+  - first:
+      213: -2514816056761846599
+    second: Witchcraft_spr_1_18
+  - first:
+      213: -8440925043545910698
+    second: Witchcraft_spr_1_19
+  - first:
+      213: -2231124990764432722
+    second: Witchcraft_spr_1_20
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Witchcraft_spr_1_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 4
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0023861ccd1b2d141b0502207518af2d
+      internalID: 303424848952509498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witchcraft_spr_1_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 5
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6fa58de22c126844a117ee2d6ec654d
+      internalID: 5842858934399646670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witchcraft_spr_1_2
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 4
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1ce0d65e430dd4d979751ae9312bc7
+      internalID: -5965170617698558593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witchcraft_spr_1_3
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 5
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4166b833130dc42951463185d32603
+      internalID: 2823017448613427974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witchcraft_spr_1_4
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 4
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e87df0924ec4145823e2b75e87868b
+      internalID: -6002961153143264586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witchcraft_spr_1_5
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 5
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd385ad1b5b9eb4eb53163526d8a5fa
+      internalID: -8849384628937906621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witchcraft_spr_1_6
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 4
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450067ebc10892543acc719760bb60a7
+      internalID: 7504739645509096338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witchcraft_spr_1_7
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 4
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3ddbfab1ce44f42a88b67858579c2d
+      internalID: 2213648557748536213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witchcraft_spr_1_8
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 4
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ea731eeb6163542a8d0659b08af304
+      internalID: 5103642151128305964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witchcraft_spr_1_9
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 4
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5a05e5f7f706d4292b5d9e470be770
+      internalID: -4316834722058831716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witchcraft_spr_1_10
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 4
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15117e077ecc414a810567e8934d6c6
+      internalID: 2737251678597537553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witchcraft_spr_1_11
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 4
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1ecf603b94ad14690e68d3d33427c9
+      internalID: -4567800641801976485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witchcraft_spr_1_12
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 4
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a66621bb7cdb94f8e428d65c5455c4
+      internalID: 9052884684262127268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witchcraft_spr_1_13
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 4
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ec5121b824ae54b8e5cd01f3fa729e
+      internalID: -1396056108043555041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witchcraft_spr_1_14
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 4
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d479a418b5d954ea73bcc928a99f75
+      internalID: 6434718185745502254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witchcraft_spr_1_15
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 4
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69591dd4797fd654b8444ae561351d82
+      internalID: 3016978401696528534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witchcraft_spr_1_16
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 4
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d36a53a0b41614fac5398eb3ebf8f8
+      internalID: 4459297789289833620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witchcraft_spr_1_17
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 4
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ec00509e9b9504eba69ca3506b61b1
+      internalID: 7475520276301052765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witchcraft_spr_1_18
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 4
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7482e9b5f32a57745b2af46e32f9be88
+      internalID: -2514816056761846599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witchcraft_spr_1_19
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 4
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4ecf5101cce7942a1eaa6f3a0ece8a
+      internalID: -8440925043545910698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witchcraft_spr_1_20
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 4
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9714137da1bb8242ac7d89102d20307
+      internalID: -2231124990764432722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
